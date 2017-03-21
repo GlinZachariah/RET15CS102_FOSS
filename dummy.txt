@@ -1,0 +1,2 @@
+This is my first Git repository.
+It is fun to use.
